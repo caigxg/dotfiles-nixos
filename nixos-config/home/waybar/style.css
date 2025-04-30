@@ -53,6 +53,7 @@ window#waybar.hidden {
 #custom-power,
 #battery,
 #backlight,
+#bluetooth,
 #wireplumber,
 #network,
 #clock,
@@ -107,6 +108,10 @@ window#waybar.hidden {
 #network {
   background-color: #94e2d5;
   padding-right: 17px;
+}
+
+#bluetooth {
+  background-color: #94e2d5;
 }
 
 #clock {

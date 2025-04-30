@@ -7,6 +7,7 @@
     v2raya
     obsidian
     wpsoffice-cn
+    clash-verge-rev
   ];
 
   programs = {

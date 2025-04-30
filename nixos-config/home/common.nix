@@ -15,6 +15,7 @@
     libva
     libva-utils
     light
+    blueman
   ];
 
   programs.kitty.enable = true;

@@ -13,6 +13,9 @@
     efi.canTouchEfiVariables = true;
   };
 
+  hardware.bluetooth.enable = true; 
+  hardware.bluetooth.powerOnBoot = true;
+  
   #启用自动清理
   nix.gc = {
     automatic = true;

@@ -50,6 +50,7 @@ window#waybar.hidden {
 }
 
 #memory,
+#disk,
 #custom-power,
 #battery,
 #backlight,
@@ -78,6 +79,10 @@ window#waybar.hidden {
 }
 
 #memory {
+  background-color: #fab387;
+}
+
+#disk {
   background-color: #fab387;
 }
 

@@ -1,10 +1,9 @@
 { pkgs, ... }:{
   home.packages = with pkgs;[
     vscode
-    gimp
+    gimp3
     mpv
     wechat-uos
-    v2raya
     obsidian
     wpsoffice-cn
     clash-verge-rev

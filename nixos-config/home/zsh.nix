@@ -5,7 +5,7 @@
     autosuggestion.enable = true;
     syntaxHighlighting.enable = true;
     history.save = 200;
-    initExtra = ''
+    initContent = ''
 
     '';
     shellAliases = {};
